@@ -40,7 +40,7 @@ This project implements a RESTful API using Flask and SQLAlchemy to manage data 
 
 ### How did the project's design evolve over time?
 
-At first, I was just trying to get something working — mostly just gardens and plants. But as I went along, I realized I needed more structure to represent things like planting dates and harvests. So I added those as separate models, even though I wasn't totally sure I was doing it "the right way." I also went back and changed some things as I learned more about how Flask and SQLAlchemy worked. The design definitely became more complex than I expected, but I think it makes more sense now.
+At first, I was just trying to get something working, mostly just gardens and plants. But as I went along, I realized I needed more structure to represent things like planting dates and harvests. So I added those as separate models, even though I wasn't totally sure I was doing it "the right way." I also went back and changed some things as I learned more about how Flask and SQLAlchemy worked. The design definitely became more complex than I expected, but I think it makes more sense now.
 
 ### Did you choose to use an ORM or raw SQL? Why?
 
